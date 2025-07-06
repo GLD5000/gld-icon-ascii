@@ -17,7 +17,7 @@
   "license": "MIT",
   "author": "GLD5000",
   "type": "commonjs",
-  "main": "src/index.js",
+  "main": "src/index.mjs",
   "scripts": {
     "test": "test"
   }
